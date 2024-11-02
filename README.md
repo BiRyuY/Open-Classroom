@@ -1,4 +1,6 @@
 # Open-Classroom
 KPGU mini project
-Author - Ajil Nair /
+<br>
+Author - Ajil Nair 
+<br>
 Members - Abhinav Verma , Kunal Dhuri
